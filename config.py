@@ -17,7 +17,7 @@ class Config:
 
 class TEXT:
   ABOUT = """
-🤖 **Name:** {bot_name}
+🤖 **Name:** Mega Downloader Bot
 
 📝 **Language:** [Python](https://www.python.org)
 
@@ -25,19 +25,19 @@ class TEXT:
 
 📡 **Hosted On:** [Heroku](https://heroku.com)
 
-🧑‍💻 **Developer:** [Safone](https://t.me/ImSafone)
+🧑‍💻 **Developer:** [Anuj](https://t.me/anujedits76)
 
-👥 **Support Group:** [AsmSupport](https://t.me/AsmSupport)
+👥 **Support Group:** [Anuj Kumar](https://t.me/log_channel_a)
 
-📢 **Updates Channel:** [Ｓ１ ＢＯＴＳ](https://t.me/AsmSafone)
+📢 **Updates Channel:** [Anuj Kumar](https://t.me/log_channel_a)
 """
 
   HELP_USER = """
-This is **{bot_name}**
+This is **Mega Downloader Bot**
 
 This Bot Can Download Files & Videos From Mega Links & Upload To Telegram. Just Send Any Mega.nz Link & See The Magic. You Can Also Add or Change Caption: Just Select An Uploaded File/ Video or Forward Me Any Telegram File & Then Write The Text You Want To Be Caption On The File As A Reply To That File & The Text You Wrote Will Be Attached As Caption 😁! 
 
-**Made With ❤️ By @AsmSafone! 👑**
+**Made With ❤️ By @anujedits76! 👑**
 """
 
   START_TEXT = """
@@ -46,5 +46,5 @@ This Bot Can Download Files & Videos From Mega Links & Upload To Telegram. Just 
 I'm **{bot_name}**
 I Can Download Files & Videos From Mega.nz Links & Upload To Telegram. Please Check Help To Learn More 😉!
 
-**Maintained By: {bot_owner}**❤️!
+**Maintained By: @anujedits76**❤️!
 """
