@@ -5,14 +5,14 @@
 import os
 
 class Config:
-    API_ID = int(os.environ.get("API_ID", 123))
-    API_HASH = os.environ.get("API_HASH", "")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+    API_ID = int(os.environ.get("API_ID", 34446649))
+    API_HASH = os.environ.get("API_HASH", "8dc570c08d8e35e88fb9bfc73c65d7fa")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "8799486461:AAH6td7_S68a3PnGNJermUgxA6_A1vhBS-c")
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     TG_MAX_SIZE = 2040108421
-    OWNER_ID = int(os.environ.get("OWNER_ID", 1316963576))
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL"))
-    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
+    OWNER_ID = int(os.environ.get("OWNER_ID", 7892805795))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1003515041061))
+    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", -1003758676689))
 
 
 class TEXT:
